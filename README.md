@@ -11,7 +11,7 @@
 - Le formateur crée l'exercice en direct, pas à pas avec vous, à chaque étape, il demandera si une personne souhaite faire une proposition
  technique.
  
-- Vous pouvez par la suite refaire cet exercice seul ou en groupe aprés le cour en ajoutant d'autres conditions, soyez créatifs !
+- Vous pouvez par la suite refaire cet exercice seul ou en groupe aprés le cour en ajoutant d'autres conditions, laissez libre cour à votre créativité !
 
 # Parties théoriques se rapportant à l'exercice :
 
