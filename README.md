@@ -16,5 +16,5 @@
 # Parties théoriques se rapportant à l'exercice :
 
 + https://github.com/isolud/PHP-Formulaires
-+ https://github.com/isolud/PHP-Operateurs
++ https://github.com/isolud/PHP-Conditions
 + https://github.com/isolud/PHP-Variables
